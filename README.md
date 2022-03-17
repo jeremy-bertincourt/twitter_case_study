@@ -1,5 +1,5 @@
 # Twitter Case Study
-A case study on travel related tweets.\
+A case study on travel related tweets.
 
 The following tasks were carries out:\
 The language was detected for each tweet.\
